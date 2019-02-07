@@ -1,0 +1,12 @@
+﻿  Snake Game.c
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(52): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(59): warning C4013: 'kbhit' undefined; assuming extern returning int
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(60): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(148): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(150): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(186): warning C4715: 'moveUp': not all control paths return a value
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(202): warning C4715: 'moveDown': not all control paths return a value
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(218): warning C4715: 'moveRight': not all control paths return a value
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(234): warning C4715: 'moveLeft': not all control paths return a value
+c:\users\htcf\source\repos\snake game\snake game\snake game.c(242): warning C4715: 'keepDirection': not all control paths return a value
+  Snake Game.vcxproj -> C:\Users\HTCF\source\repos\Snake Game\Debug\Snake Game.exe
